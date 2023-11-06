@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MateusMSoares)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MateusMSoares&theme=vue-dark&card_width=496)](https://git.io/streak-stats)
