@@ -1,5 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=MateusMSoares&theme=vue-dark&card_width=496)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMSoares&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMSoares&layout=compact&theme=radical)
 
 
@@ -16,10 +18,11 @@
 
 
 
+
 ## Ferramentas e Tecnologias
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
